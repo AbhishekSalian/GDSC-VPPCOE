@@ -10,4 +10,4 @@ Day2:
 Deep Learning basics refer dl_101.ipynb
 
 
-![image]()
+![image](https://github.com/AbhishekSalian/GDSC-VPPCOE/blob/main/workshop_poster.jpeg)
