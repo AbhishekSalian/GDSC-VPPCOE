@@ -1,13 +1,13 @@
 # GDSC-VPPCOE
 
-2- Days workshop taken at Padmabhushan Vasantdada Patil Pratishthan's College of Engineering in Mumbai
+Code for 2- Days workshop taken at Padmabhushan Vasantdada Patil Pratishthan's College of Engineering in Mumbai
 
 Day1:
-Machine Learning basics refer ml_101.ipynb
+For machine Learning basics refer ml_101.ipynb
 
 
 Day2:
-Deep Learning basics refer dl_101.ipynb
+For deep Learning basics refer dl_101.ipynb
 
 
 ![image](https://github.com/AbhishekSalian/GDSC-VPPCOE/blob/main/workshop_poster.jpeg)
